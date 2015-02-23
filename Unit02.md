@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL405: The American Renaissance"
+course_description: "An examination of American literature published between the 1830s and 1860s, focusing on the socio-cultural context that lead to the dramatic outburst of literary creativity in this era."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Continuity and Change in Poetic Form** <span id="2"></span> 
 *The American Renaissance explored older literary forms and developed
 new ones as it shaped and responded to the changing nature of American

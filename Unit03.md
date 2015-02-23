@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL405: The American Renaissance"
+course_description: "An examination of American literature published between the 1830s and 1860s, focusing on the socio-cultural context that lead to the dramatic outburst of literary creativity in this era."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Invention of the Short Story** <span id="3"></span> 
 *While most critics and writers during the period continued to view
 poetry as the most important literary genre, the period is now better

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL405: The American Renaissance"
+course_description: "An examination of American literature published between the 1830s and 1860s, focusing on the socio-cultural context that lead to the dramatic outburst of literary creativity in this era."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Development of the Novel and its Various Forms** <span
 id="4"></span> 
 *Just as the short story emerged as a new literary form due to cultural,
